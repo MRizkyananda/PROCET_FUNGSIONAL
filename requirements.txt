@@ -1,0 +1,8 @@
+# Project Pemrograman Fungsional Python
+# =====================================
+# Seluruh fungsionalitas utama dan unit testing dibangun menggunakan
+# modul bawaan Python Standard Library (unittest, sys, os, typing, copy, datetime).
+# Tidak diperlukan dependensi eksternal untuk menjalankan main.py.
+
+# Dependensi opsional jika ingin menjalankan testing dengan pytest:
+pytest>=7.0.0
